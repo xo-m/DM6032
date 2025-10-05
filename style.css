@@ -1,0 +1,16 @@
+h1{font-family:times new roman,arial; color:white; font-size:50px; font-weight:bold; background:black;}
+
+h1{background: linear-gradient(to left,grey, black)}
+
+p{display:block; text-align:center; }
+
+h1{padding:30px; margin:20px; border:5px; text-align:center;}
+
+table{padding:20x; border:30px black; text-align:center; font-faimly:times new roman, arial; color:grey;}
+
+
+ul{display: flex; justify-content:center; gap:20px;} 
+
+a{color:black; font-family: Souge UI,arial; font-size:15px; text-decoration: underline; font-weight: bold; letter-spacing:1px;}
+
+#media {max-width: 350px; margin: 350px auto; padding: 60px; height: 20px;}
